@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/U2be"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ytd2"/>
+	<classpathentry kind="lib" path="C:/Users/Ashura/.m2/repository/com/github/axet/wget/1.2.11/wget-1.2.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
